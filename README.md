@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Vicky Kumar</h1>
-<h3 align="center">Working on Web Development and Blockchain projects.</h3>
+<h3 align="center">Working on Web Development and Data Analytics</h3>
 
-- 🌱 I’m currently learning **React.js,Node.js**
+- 🌱 I’m currently working on  **React.js,Node.js**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, C++, Java, Python**
+- 💬 Ask me about **HTML, CSS, JavaScript, C++, Java, Python **
 
 - 📫 How to reach me **kv993495@gmail.com**
 
-- ⚡ Fun fact **I love cricket and enjoy being the team captain**
+- ⚡ Fun fact **I love cricket **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
