@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Vicky Kumar</h1>
 <h3 align="center">Working on Web Development and Data Analytics</h3>
 
-- 🌱 I’m currently working on  **React.js,Node.js**
+- 🌱 I’m currently working on  **Full Stack Development*
 
-- 💬 Ask me about **HTML, CSS, JavaScript, C++, Java, Python **
+- 💬 Ask me about **HTML, CSS, JavaScript, C++, Java, Python, React, Sql, C++ **
 
 - 📫 How to reach me **kv993495@gmail.com**
 
