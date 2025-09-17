@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **kv993495@gmail.com**
 
-- ⚡ Fun fact **I love cricket **
+- ⚡ Fun fact **I love Learning new technologies **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
