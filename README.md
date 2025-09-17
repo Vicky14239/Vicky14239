@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vicky Kumar</h1>
 <h3 align="center">Working on Web Development and Data Analytics</h3>
 
-- 🌱 I’m currently working on  **Full Stack Development*
+- 🌱 I’m currently working on  *Full Stack Development*
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C++, Java, Python, React, Sql, C++ **
 
